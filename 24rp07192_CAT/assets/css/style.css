@@ -1,0 +1,6 @@
+/* style.css - small customizations */
+body { background: #f8f9fa; }
+.navbar-brand { font-weight: 700; }
+.card:hover { transform: translateY(-4px); transition: .15s ease; }
+.table .btn { margin-right: 4px; }
+footer { border-top: 1px solid #e9ecef; }
